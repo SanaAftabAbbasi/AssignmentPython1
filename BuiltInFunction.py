@@ -25,3 +25,4 @@ print(Friends.count("Sana"))
 print(Friends.index("Sana"))
 #Seventh BuiltIn Function
 Friends.clear()
+
